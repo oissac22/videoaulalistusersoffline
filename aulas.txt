@@ -1,0 +1,16 @@
+html, css e javascript - lista e cadastro local off-line - aula 1/4
+https://youtu.be/nmwDK2ecKEQ
+
+html, css e javascript - lista e cadastro local off-line - aula 2/4
+https://youtu.be/vwCh9_dSr8g
+
+html, css e javascript - lista e cadastro local off-line - aula 3/4
+https://youtu.be/c70l5YSuqPY
+
+html, css e javascript - lista e cadastro local off-line - aula 4/4
+https://youtu.be/LfyGgCL0tSA
+
+
+
+Usando apenas html, css e javascript você consegue fazer uma administração de usuários totalmente off-line usando apenas o localstorage nativo dos navegadores.
+Muito simples e fácil de fazer.
